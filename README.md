@@ -1,7 +1,7 @@
 # Pulse!
 
 
-Pulse is a single player game made on unity platform.Downloadable and playable on all 3 platforms- Windows, MAC, Linux.
+Pulse is a single player game made on unity platform. Downloadable and playable on all 3 platforms - Windows, MAC, Linux.
 
 Description:
 Feel the pulse when you ride through eery and unforeseen avenues! It's a single player game where you drive through surprising paths. Well, gear up, you have a score to make and a destination to seize!

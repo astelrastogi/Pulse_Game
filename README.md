@@ -10,9 +10,9 @@ Feel the pulse when you ride through eery and unforeseen avenues! It's a single 
 Click and hold to accelerate on path and let it flip while in air to grab-up coins!
 
 
-## Link for the game:
+## Published on:
 https://devsoc.itch.io/pulse
-
+https://games.devsoc.club/
 
 ## Here are some insights:
 

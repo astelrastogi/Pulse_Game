@@ -12,7 +12,10 @@ Click and hold to accelerate on path and let it flip while in air to grab-up coi
 
 ## Published on:
 https://devsoc.itch.io/pulse
+
 https://games.devsoc.club/
+
+*70+ downloads*
 
 ## Here are some insights:
 
